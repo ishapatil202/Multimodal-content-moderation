@@ -1,0 +1,10 @@
+# CPU-only PyTorch wheels (much smaller; Spaces' free hardware has no GPU)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.6
+transformers>=5.0,<6
+gradio==6.27.0
+fastapi
+uvicorn>=0.30
+python-multipart
+pillow
+numpy
