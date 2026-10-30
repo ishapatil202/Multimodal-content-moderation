@@ -1,15 +1,4 @@
----
-title: Multimodal Content Moderation
-emoji: 🛡️
-colorFrom: indigo
-colorTo: purple
-sdk: gradio
-sdk_version: 6.27.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: BERT + ViT moderation for text and images
----
+
 
 # Multimodal Content Moderation
 
